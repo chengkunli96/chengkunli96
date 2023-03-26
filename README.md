@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **chengkunli96/chengkunli96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=chengkunli96&count_private=true&show_icons=true&layout=compact&hide=prs&hide_title=true" height="120"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengkunli96&layout=compact&exclude_repo=HDL-ZJU&hide_title=true&langs_count=4" height="120">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chengkunli96) 
